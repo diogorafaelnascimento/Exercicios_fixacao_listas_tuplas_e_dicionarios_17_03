@@ -1,0 +1,7 @@
+#Lista de compras simples
+lista_compras = []
+print(lista_compras)
+lista_compras.append('Item')
+print(lista_compras)
+lista_compras.remove("Item")
+print(lista_compras)
